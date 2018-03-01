@@ -2,28 +2,36 @@
 
 I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKempson/Tomorrow-Theme), so I've made it!
 
+**Some Screenshots:**
+- [Python](#python)
+- [Java](#java)
+- [Go](#go)
+- [C++](#c)
+- [Ruby](#ruby)
+- [JavaScript](#javascript)
+
 # Screenshots
 
-### Python
+## Python
 
 ![Python](/docs/imgs/python.png "Python")
 
-### Java
+## Java
 
 ![Java](/docs/imgs/java.png "Java")
 
-### Go
+## Go
 
 ![Go](/docs/imgs/go.png "Go")
 
-### C++
+## C++
 
 ![C++](/docs/imgs/cpp.png "C++")
 
-### Ruby
+## Ruby
 
 ![Ruby](/docs/imgs/ruby.png "Ruby")
 
-### JavaScript
+## JavaScript
 
 ![JavaScript](/docs/imgs/js.png "JavaScript")
