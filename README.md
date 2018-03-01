@@ -34,27 +34,27 @@ All the examples below has been taken from the [OpenGenus Foundation](https://gi
 
 ## Python
 
-![Python](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/python.png "Python")
+![Python](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/python.png "Python")
 
 ## Java
 
-![Java](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/java.png "Java")
+![Java](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/java.png "Java")
 
 ## Go
 
-![Go](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/go.png "Go")
+![Go](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/go.png "Go")
 
 ## C++
 
-![C++](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/cpp.png "C++")
+![C++](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/cpp.png "C++")
 
 ## Ruby
 
-![Ruby](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/ruby.png "Ruby")
+![Ruby](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/ruby.png "Ruby")
 
 ## JavaScript
 
-![JavaScript](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/js.png "JavaScript")
+![JavaScript](https://raw.githubusercontent.com/micheleriva/dat-theme/blob/master/docs/imgs/js.png "JavaScript")
 
 # Credits
 
