@@ -34,27 +34,27 @@ All the examples below has been taken from the [OpenGenus Foundation](https://gi
 
 ## Python
 
-![Python](/docs/imgs/python.png "Python")
+![Python](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/python.png "Python")
 
 ## Java
 
-![Java](/docs/imgs/java.png "Java")
+![Java](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/java.png "Java")
 
 ## Go
 
-![Go](/docs/imgs/go.png "Go")
+![Go](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/go.png "Go")
 
 ## C++
 
-![C++](/docs/imgs/cpp.png "C++")
+![C++](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/cpp.png "C++")
 
 ## Ruby
 
-![Ruby](/docs/imgs/ruby.png "Ruby")
+![Ruby](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/ruby.png "Ruby")
 
 ## JavaScript
 
-![JavaScript](/docs/imgs/js.png "JavaScript")
+![JavaScript](https://github.com/micheleriva/dat-theme/blob/master/docs/imgs/js.png "JavaScript")
 
 # Credits
 
