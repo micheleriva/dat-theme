@@ -1,6 +1,6 @@
-# 🔥 Day After Tomorrow - Sublime Text Theme
+# 🔥 Day After Tomorrow - Sublime Text Night Theme
 
-I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKempson/Tomorrow-Theme), so I've made it!
+I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKempson/Tomorrow-Theme) for **Sublime Text 3**, so I've made it!
 
 **Some Screenshots:**
 - [Python](#python)
@@ -10,7 +10,9 @@ I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKemp
 - [Ruby](#ruby)
 - [JavaScript](#javascript)
 
-# Screenshots
+# 📸 Screenshots
+
+All the examples below has been taken from the [OpenGenus Foundation](https://github.com/OpenGenus). Check 'em out, it's an amazing community!
 
 ## Python
 
@@ -35,3 +37,6 @@ I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKemp
 ## JavaScript
 
 ![JavaScript](/docs/imgs/js.png "JavaScript")
+
+# 💼 License
+This theme is released under the [MIT](/LICENSE.md) license.
