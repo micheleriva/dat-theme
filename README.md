@@ -10,6 +10,24 @@ I couldn't find anywhere a working [Tomorrow Theme](https://github.com/ChrisKemp
 - [Ruby](#ruby)
 - [JavaScript](#javascript)
 
+# 📦 Installation
+
+This theme is still under approvation for **PackageControl**!
+
+Clone this repository in the following folder: <br />
+
+**OSX** <br />
+`~/Library/Application Support/Sublime Text 3/Packages` <br />
+
+**Linux** <br />
+`~/.config/sublime-text-3/Packages` <br />
+
+**Windows** <br />
+`C:\Users\YourUserName\AppData\Roaming\Sublime Text 3\Packages` <br />
+
+then activate it as a regular theme.
+
+
 # 📸 Screenshots
 
 All the examples below has been taken from the [OpenGenus Foundation](https://github.com/OpenGenus). Check 'em out, it's an amazing community!
