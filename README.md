@@ -56,5 +56,9 @@ All the examples below has been taken from the [OpenGenus Foundation](https://gi
 
 ![JavaScript](/docs/imgs/js.png "JavaScript")
 
+# Credits
+
+**Day After Tomorrow** is based on [TextMate Tomorrow Theme](https://github.com/theymaybecoders/sublime-tomorrow-theme).
+
 # 💼 License
 This theme is released under the [MIT](/LICENSE.md) license.
