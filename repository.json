@@ -1,0 +1,11 @@
+{
+  "name": "DayAfterTomorrow",
+  "details": "https://github.com/micheleriva/dat-theme",
+  "releases": [
+    {
+      "sublime_text": "*",
+      "tags": true,
+      "platforms": "*"
+    }
+  ]
+}
