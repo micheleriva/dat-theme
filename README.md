@@ -33,7 +33,7 @@ then activate it as a regular theme.
 All the examples below has been taken from the [OpenGenus Foundation](https://github.com/OpenGenus). Check 'em out, it's an amazing community!
 
 ## Python
-![Python](https://raw.githubusercontent.com/micheleriva/dat-theme/master/docs/imgs/python.png"Python")
+![Python](https://raw.githubusercontent.com/micheleriva/dat-theme/master/docs/imgs/python.png "Python")
 
 ## Java
 
